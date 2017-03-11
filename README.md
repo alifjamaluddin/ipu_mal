@@ -8,7 +8,7 @@ $ php show_api.php "state=johor"
 ```
 Untuk data sesuatu kawasan
 ```sh
-$ php show_api.php "state=kota tinggi"
+$ php show_api.php "area=kota tinggi"
 ```
 
 Data diambil dari laman web [APIMS](apims.doe.gov.my/v2/table.html)
